@@ -32,7 +32,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 This was my first time building an Android app, so it took me a while to understand the source code written in the videos. However, the CodePath lessons on the various topics were very helpful!
 
 ## License
